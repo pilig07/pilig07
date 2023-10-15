@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Pilar</a></h1>
 <h3 align="center">A passionate Web and Mobile App developer from Mexico </h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Pilar+García;Full+Stack+Developer"></a>
+</p>
 <p align="left"> <img src="https://i.imgur.com/6FaQfeU.png" alt="logo" /> </p>
 
 I am a Intelligent Systems Engineer, Ex Mitacs GRI 2022. I am a full stack developer as a freelancer, and currently working in Daikin Applied as a UI/UX Engineer. Also I like to develop videogames and graphical stuff.
@@ -62,6 +65,9 @@ I am a Intelligent Systems Engineer, Ex Mitacs GRI 2022. I am a full stack devel
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 
+### 🔥 Streak Stats
 
 <a href="https://github.com/pilig07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pilig07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pilig07 github stats" /></a> | <a href="https://github.com/pilig07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilig07&layout=compact&theme=buefy&hide_border=true" /></a> 
