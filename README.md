@@ -64,4 +64,4 @@ I am a Intelligent Systems Engineer, Ex Mitacs GRI 2022. I am a full stack devel
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilig07&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pilig07&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pilig07 github stats" /></a> | <a href="https://github.com/pilig07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilig07&layout=compact&theme=buefy&hide_border=true" /></a> 
