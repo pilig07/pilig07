@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Pilar</a></h1>
-<h3 align="center">A passionate UI/UX Engineer with emphasis Web and Mobile App developer from Mexico w</h3>
+<h3 align="center">A passionate UI/UX Engineer with emphasis in Web and Mobile App developer from Mexico w</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Pilar+García;Full+Stack+Developer"></a>
 </p>
