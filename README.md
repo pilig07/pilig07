@@ -82,4 +82,4 @@ I am an Intelligent Systems Engineer, Ex Mitacs GRI 2022. I am a full stack deve
 
 ### 🔥 Streak Stats
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pilig07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>></a> | <a href="https://github.com/pilig07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilig07&layout=compact&theme=buefy&hide_border=true" /></a> 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pilig07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>| <a href="https://github.com/pilig07/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilig07&layout=compact&theme=buefy&hide_border=true" /></a> 
