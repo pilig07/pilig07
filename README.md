@@ -6,7 +6,7 @@ Pilar</a></h1>
 </p>
 <p align="left"> <img src="https://i.imgur.com/6FaQfeU.png" alt="logo" /> </p>
 
-I am an Intelligent Systems Engineer, Ex Mitacs GRI 2022. I am a full stack developer as a freelancer, and currently working at Daikin Applied as UI/UX Engineer. Also I like to develop videogames and graphical stuff.
+I am an Intelligent Systems Engineer, Ex Mitacs GRI 2022. I am a full stack developer as a freelancer, and currently working at Stellantis as UX HMI Engineer. Also I like to develop videogames and graphical stuff.
 
  **I am open to**:
 
